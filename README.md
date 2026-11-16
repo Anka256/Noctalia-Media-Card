@@ -2,6 +2,11 @@
 
 **A lock-screen media player for the Noctalia shell, with cover art, playback controls and a working seek bar. It keeps showing the right track even when Firefox/Zen's single MPRIS player gets hijacked.**
 
+<p align="center">
+  <img src="assets/card.png" alt="Media Card showing cover art, title, artist, playback controls and a seek bar" width="500"><br>
+  <sub>Demo track and cover, rendered by the plugin on the Noctalia desktop.</sub>
+</p>
+
 ---
 
 ## Why
