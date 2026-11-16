@@ -1,0 +1,14 @@
+id = "onur/seekbar"
+name = "Media Card"
+version = "0.2.0"
+plugin_api = 43
+author = "onur"
+license = "MIT"
+dependencies = []
+tags = ["media", "lockscreen", "mpris"]
+icon = "player-play"
+description = "Lock-screen media card with cover, controls and a seek bar; survives Firefox/Zen single-MPRIS hijacks."
+
+[[desktop_widget]]
+id = "seek"
+entry = "desktop.luau"
